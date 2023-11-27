@@ -28,9 +28,8 @@ This project is a simple chatbot application built using React for the frontend,
 
 1. Navigate to the `back-end` directory.
 2. Create a virtual environment and activate it.
-3. Run `pip install -r requirements.txt` to install Python dependencies.
-4. Set up MongoDB and update the connection string in `server.py`.
-5. Run `python server.py` to start the Flask server.
+3. Set up MongoDB and update the connection string in `main.py`.
+4. Run `python main.py` to start the Flask server.
 
 ## Usage
 
