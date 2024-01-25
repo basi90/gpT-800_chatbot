@@ -42,4 +42,4 @@ This project is a simple chatbot application built using React for the frontend,
 - [Flask Documentation](https://flask.palletsprojects.com/en/2.0.x/)
 - [OpenAI GPT-3.5 API](https://platform.openai.com/docs/guides/gpt)
 
-Feel free to contribute or report any issues!
+Feel free to contribute or report any issues!!
