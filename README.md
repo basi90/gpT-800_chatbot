@@ -43,3 +43,24 @@ This project is a simple chatbot application built using React for the frontend,
 - [OpenAI GPT-3.5 API](https://platform.openai.com/docs/guides/gpt)
 
 Feel free to contribute or report any issues!!
+
+
+                   ,~.
+                ,-'__ `-,
+               {,-'  `. }              ,')
+              ,( a )   `-.__         ,',')~,
+             <=.) (         `-.__,==' ' ' '}
+               (   )                      /
+                `-'\   ,                  )
+                    |  \        `~.      /
+                    \   `._        \    /
+                     \     `._____,'   /
+                      `-.            ,'
+                         `-.      ,-'
+                            `~~~~'
+                            //_||
+                         __//--'/`          
+                       ,--'/`  '
+                          '
+
+
